@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
-  manifest = {}
+  manifest = {"whale bone corsets	" => 5, }
 
 
 end
